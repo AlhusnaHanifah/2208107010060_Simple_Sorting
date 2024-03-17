@@ -29,7 +29,7 @@ Program ini adalah implementasi dari tiga algoritma pengurutan sederhana, yaitu 
 
 
 # Link Video 
-- Link Video Pendek cara menjalankan kode program
+- Link Video cara menjalankan kode program
 
 - https://drive.google.com/file/d/1PbbFrO3DflRDf_7KTolh7bJRflSO3PC4/view?usp=sharing 
 
