@@ -26,3 +26,10 @@ Program ini adalah implementasi dari tiga algoritma pengurutan sederhana, yaitu 
     Fungsi ini digunakan untuk menyimpan isi array arr dengan ukuran n ke dalam file dengan nama filename.
 ### 6. Fungsi main()
     Fungsi utama yang mengatur jalannya program.
+
+
+# Link Video 
+- Link Video Pendek cara menjalankan kode program
+
+- https://drive.google.com/file/d/1PbbFrO3DflRDf_7KTolh7bJRflSO3PC4/view?usp=sharing 
+
