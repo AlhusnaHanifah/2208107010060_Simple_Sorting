@@ -2,13 +2,14 @@
 Program ini adalah implementasi dari tiga algoritma pengurutan sederhana, yaitu Bubble Sort, Selection Sort, dan Insertion Sort. Program ini akan menghasilkan bilangan acak, menyimpannya dalam file teks, mengurutkan bilangan tersebut menggunakan ketiga algoritma, menyimpan hasil pengurutan dalam file teks, dan mencatat waktu eksekusi untuk setiap pengurutan.
 
 # Cara Menjalankan Kode Program
-1. Pastikan Anda memiliki compiler C yang terpasang di sistem Anda. Jika belum, Anda dapat menginstal GCC di sistem Linux atau MinGW di Windows.
-2. Salin atau download kode program yang terdapat pada file di atas ke dalam sebuah berkas sumber dengan nama simple_sorting.c
+1. Pastikan Anda memiliki compiler C yang terpasang di sistem Anda. 
+2. Simpan file di atas ke dalam sebuah berkas sumber dengan nama simple_sorting.c
 3. Buka terminal atau command prompt dan arahkan ke direktori tempat Anda menyimpan berkas simple_sorting.c.
 4. Compile program dengan menjalankan perintah
     #### gcc simple_sorting.c -o simple_sorting
 5. Setelah berhasil dikompilasi, jalankan program dengan mengetikkan perintah
     #### .\simple_sorting
+6. Setelah file berhasil dieksekusi, terdapat file hasil menyimpan bilangan yang sudah berurutan dan yang belum berurutan di direktori yang sama dengan program.
 
 # Fungsi yang Digunakan
 ### 1. Fungsi generateRandomNumbers(int *arr, int n)
