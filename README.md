@@ -9,7 +9,9 @@ Program ini adalah implementasi dari tiga algoritma pengurutan sederhana, yaitu 
     #### gcc simple_sorting.c -o simple_sorting
 5. Setelah berhasil dikompilasi, jalankan program dengan mengetikkan perintah
     #### .\simple_sorting
-6. Setelah file berhasil dieksekusi, terdapat file hasil menyimpan bilangan yang sudah berurutan dan yang belum berurutan di direktori yang sama dengan program.
+6. Setelah file berhasil dieksekusi, terdapat output program:
+    - Tabel Hasil Evaluasi dan waktu eksekusi ketiga algoritma pada terminal 
+    - file hasil menyimpan bilangan yang sudah berurutan dan yang belum berurutan di direktori yang sama dengan program.
 
 # Fungsi yang Digunakan
 ### 1. Fungsi generateRandomNumbers(int *arr, int n)
